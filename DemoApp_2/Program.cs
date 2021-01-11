@@ -7,6 +7,9 @@ namespace DemoApp_2
         static void Main(string[] args)
         {
 
+            // tamamamam
+            // After Modify
+
             #region Math
             //   double f=  Math.Truncate(3.6);
             //   Console.WriteLine(f);
