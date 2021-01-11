@@ -1,0 +1,13 @@
+C:\Users\ELshmakh\source\repos\DemoApp_2\DemoApp_2\bin\Debug\netcoreapp3.1\DemoApp_2.exe
+C:\Users\ELshmakh\source\repos\DemoApp_2\DemoApp_2\bin\Debug\netcoreapp3.1\DemoApp_2.deps.json
+C:\Users\ELshmakh\source\repos\DemoApp_2\DemoApp_2\bin\Debug\netcoreapp3.1\DemoApp_2.runtimeconfig.json
+C:\Users\ELshmakh\source\repos\DemoApp_2\DemoApp_2\bin\Debug\netcoreapp3.1\DemoApp_2.runtimeconfig.dev.json
+C:\Users\ELshmakh\source\repos\DemoApp_2\DemoApp_2\bin\Debug\netcoreapp3.1\DemoApp_2.dll
+C:\Users\ELshmakh\source\repos\DemoApp_2\DemoApp_2\bin\Debug\netcoreapp3.1\DemoApp_2.pdb
+C:\Users\ELshmakh\source\repos\DemoApp_2\DemoApp_2\obj\Debug\netcoreapp3.1\DemoApp_2.csprojAssemblyReference.cache
+C:\Users\ELshmakh\source\repos\DemoApp_2\DemoApp_2\obj\Debug\netcoreapp3.1\DemoApp_2.AssemblyInfoInputs.cache
+C:\Users\ELshmakh\source\repos\DemoApp_2\DemoApp_2\obj\Debug\netcoreapp3.1\DemoApp_2.AssemblyInfo.cs
+C:\Users\ELshmakh\source\repos\DemoApp_2\DemoApp_2\obj\Debug\netcoreapp3.1\DemoApp_2.csproj.CoreCompileInputs.cache
+C:\Users\ELshmakh\source\repos\DemoApp_2\DemoApp_2\obj\Debug\netcoreapp3.1\DemoApp_2.dll
+C:\Users\ELshmakh\source\repos\DemoApp_2\DemoApp_2\obj\Debug\netcoreapp3.1\DemoApp_2.pdb
+C:\Users\ELshmakh\source\repos\DemoApp_2\DemoApp_2\obj\Debug\netcoreapp3.1\DemoApp_2.genruntimeconfig.cache
